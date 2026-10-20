@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Nihonjin Boys** · Team ID `VTU-QFF-HC-0089` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Nihonjin Boys)
+[⬆ Back to Top](#nihonjin-boys)
 
 </div>
